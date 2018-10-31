@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "store",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "Y2JjZDY0ZjY3MTljYTFiMzZiZmI0NWViMzJiZDQxZjMyMGNjZjRmZjAxOTU0YTdlMTdiZDQ3ZDJlZmQ5ZTIzOTU5MWI3OWRmOGViOTA0MjQyZDQwYjY0NjgxYWI2MzU2YzU5ZjdkNWFlNzk4OWNlYmQzOWY3OGFkMzhkMWQ3YWM="
+  },
+  "git-provider": "GitHub",
+  "git-company": "vdemoutiez",
+  "repository-name": "store"
+}
